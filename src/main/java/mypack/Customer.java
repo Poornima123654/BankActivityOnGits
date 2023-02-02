@@ -1,5 +1,7 @@
 package mypack;
 
+/* this is a customer class*/
+
 public class Customer 
 {
 	int custid;
